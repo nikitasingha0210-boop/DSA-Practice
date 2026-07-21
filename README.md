@@ -1,4 +1,3 @@
-
 # 🚀 DSA Practice
 
 Welcome to my Data Structures and Algorithms repository!
